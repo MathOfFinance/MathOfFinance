@@ -1,4 +1,4 @@
-# Welcome to PaperlessHash community
+# Welcome to MathOfFinance
 
 [![PaperlessHash](https://github.com/PaperlessHash/PaperlessHash/actions/workflows/PaperlessHash.yml/badge.svg)](https://github.com/PaperlessHash/PaperlessHash/actions/workflows/PaperlessHash.yml)
 
