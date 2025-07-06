@@ -1,6 +1,6 @@
 # Welcome to MathOfFinance
 
-[![PaperlessHash](https://github.com/PaperlessHash/PaperlessHash/actions/workflows/PaperlessHash.yml/badge.svg)](https://github.com/PaperlessHash/PaperlessHash/actions/workflows/PaperlessHash.yml)
+[![MathOfFinance](https://github.com/PaperlessHash/PaperlessHash/actions/workflows/PaperlessHash.yml/badge.svg)](https://github.com/PaperlessHash/PaperlessHash/actions/workflows/PaperlessHash.yml)
 
 ### 💻 Languages and Tools:
 
